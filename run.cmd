@@ -1,0 +1,1 @@
+java -jar target\deduplicate-demo-1.0-SNAPSHOT.jar
